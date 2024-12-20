@@ -1,0 +1,44 @@
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.exe.config
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.exe
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.pdb
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.AssemblyReference.cache
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form1.resources
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form2.resources
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Properties.Resources.resources
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.GenerateResource.cache
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.CoreCompileInputs.cache
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.exe
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.pdb
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.SignIn.resources
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.exe.config
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.exe
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.pdb
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.AssemblyReference.cache
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form1.resources
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form2.resources
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Properties.Resources.resources
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.SignIn.resources
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.GenerateResource.cache
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.CoreCompileInputs.cache
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.exe
+C:\Users\429193-16\Desktop\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.pdb
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form3.resources
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.exe.config
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.exe
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\СавинаУП.pdb
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.AssemblyReference.cache
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form1.resources
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form2.resources
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form3.resources
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Properties.Resources.resources
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.SignIn.resources
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.GenerateResource.cache
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.CoreCompileInputs.cache
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.exe
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.pdb
+C:\Users\Таня\Desktop\Колледжная фигуёвина\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form4.resources
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form4.resources
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\ClassLibrary1.dll
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\bin\Debug\ClassLibrary1.pdb
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.csproj.Up2Date
+H:\УПрактика 4 курс\СавинаУП\СавинаУП\obj\Debug\СавинаУП.Form5.resources
